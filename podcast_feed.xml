@@ -4,13 +4,13 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Expedia AI Product Interview Prep</title>
+    <title>Ex AI Product Interview Prep</title>
     <link>https://drive.google.com/drive/folders/1JGW66HV1AxUIOKCBOMOZ0o1jQX_G1efh</link>
-    <description>Audio prep series covering Expedia AI product background, trust design, traveler reliability, hallucination prevention, product strategy, and bar raiser judgment.</description>
+    <description>Audio prep series covering product background, trust design, user reliability, hallucination prevention, product strategy, and bar raiser judgment.</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Nov 2026 13:00:00 -0800</lastBuildDate>
     <itunes:author>PR</itunes:author>
-    <itunes:summary>Audio prep series covering Expedia AI product background, trust design, traveler reliability, hallucination prevention, product strategy, and bar raiser judgment.</itunes:summary>
+    <itunes:summary>Audio prep series covering product background, trust design, user reliability, hallucination prevention, product strategy, and bar raiser judgment.</itunes:summary>
     <itunes:owner>
       <itunes:name>PR</itunes:name>
       <itunes:email>robert.nguon@gmail.com</itunes:email>
@@ -23,91 +23,91 @@
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1dmS3uiAtuj2G9wNnBbVY9YRH4AqssKcH" />
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1dmS3uiAtuj2G9wNnBbVY9YRH4AqssKcH</url>
-      <title>Expedia AI Product Interview Prep</title>
+      <title>Ex AI Product Interview Prep</title>
       <link>https://drive.google.com/drive/folders/1JGW66HV1AxUIOKCBOMOZ0o1jQX_G1efh</link>
     </image>
     <item>
-      <title>1 - Background - Why Expedia Killed Its AI Chatbot</title>
-      <description>Background context on why Expedia moved away from a standalone AI chatbot interface toward integrated AI travel experiences.</description>
+      <title>1 - Background - Why Ex Shifted Its AI Architecture</title>
+      <description>Background context on shifting away from standalone AI interfaces toward fully integrated platform experiences.</description>
       <guid isPermaLink="false">urn:google-drive:file:1xmDOFyEauDOJBPxR6N0Pj1RmcTA0eiCl</guid>
       <pubDate>Wed, 18 Nov 2026 07:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xmDOFyEauDOJBPxR6N0Pj1RmcTA0eiCl" length="42920993" type="audio/x-m4a" />
-      <itunes:title>1 - Background - Why Expedia Killed Its AI Chatbot</itunes:title>
+      <itunes:title>1 - Background - Why Ex Shifted Its AI Architecture</itunes:title>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Background context on why Expedia moved away from a standalone AI chatbot interface toward integrated AI travel experiences.</itunes:summary>
+      <itunes:summary>Background context on shifting away from standalone AI interfaces toward fully integrated platform experiences.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>2 - Context - How Expedia Designs AI for Trust</title>
-      <description>Core context on Expedia's principles and design framework for building traveler trust in AI-powered features.</description>
+      <title>2 - Context - How Ex Designs AI for Trust</title>
+      <description>Core context on foundational principles and design frameworks for building user trust in AI-powered features.</description>
       <guid isPermaLink="false">urn:google-drive:file:1PtjDB_BP2iG6e6jBu_1A-aEOli7wF0aB</guid>
       <pubDate>Wed, 18 Nov 2026 08:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PtjDB_BP2iG6e6jBu_1A-aEOli7wF0aB" length="3805129" type="audio/x-m4a" />
-      <itunes:title>2 - Context - How Expedia Designs AI for Trust</itunes:title>
+      <itunes:title>2 - Context - How Ex Designs AI for Trust</itunes:title>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Core context on Expedia's principles and design framework for building traveler trust in AI-powered features.</itunes:summary>
+      <itunes:summary>Core context on foundational principles and design frameworks for building user trust in AI-powered features.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>3 - I1 - Design - How Expedia Designs AI for Anxious Travelers</title>
-      <description>Interview 1 (Design): Deep dive into designing AI travel products that reduce friction and anxiety for travelers.</description>
+      <title>3 - I1 - Design - How Ex Designs AI for Anxious Users</title>
+      <description>Interview 1 (Design): Deep dive into designing AI products that reduce friction and uncertainty for users.</description>
       <guid isPermaLink="false">urn:google-drive:file:1V21sBhqerVYiJBLW9W6fq8V5DRBzR3En</guid>
       <pubDate>Wed, 18 Nov 2026 09:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V21sBhqerVYiJBLW9W6fq8V5DRBzR3En" length="14207327" type="audio/x-m4a" />
-      <itunes:title>3 - I1 - Design - How Expedia Designs AI for Anxious Travelers</itunes:title>
+      <itunes:title>3 - I1 - Design - How Ex Designs AI for Anxious Users</itunes:title>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Interview 1 (Design): Deep dive into designing AI travel products that reduce friction and anxiety for travelers.</itunes:summary>
+      <itunes:summary>Interview 1 (Design): Deep dive into designing AI products that reduce friction and uncertainty for users.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>4 - I2 - Traveler-facing Reliability - Inside Expedia's AI Product</title>
-      <description>Interview 2 (Traveler-facing Reliability): Examining reliability, accuracy, and user confidence inside Expedia's AI product.</description>
+      <title>4 - I2 - User-facing Reliability - Inside Ex AI Products</title>
+      <description>Interview 2 (User-facing Reliability): Examining reliability, accuracy, and user confidence inside modern AI systems.</description>
       <guid isPermaLink="false">urn:google-drive:file:1ODRkOjdPQS57AN42WbKpCZFkYEIJIQgB</guid>
       <pubDate>Wed, 18 Nov 2026 10:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ODRkOjdPQS57AN42WbKpCZFkYEIJIQgB" length="13291274" type="audio/x-m4a" />
-      <itunes:title>4 - I2 - Traveler-facing Reliability - Inside Expedia's AI Product</itunes:title>
+      <itunes:title>4 - I2 - User-facing Reliability - Inside Ex AI Products</itunes:title>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Interview 2 (Traveler-facing Reliability): Examining reliability, accuracy, and user confidence inside Expedia's AI product.</itunes:summary>
+      <itunes:summary>Interview 2 (User-facing Reliability): Examining reliability, accuracy, and user confidence inside modern AI systems.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>5 - I3 - AI Experience - How Expedia Prevents AI Travel Hallucinations</title>
-      <description>Interview 3 (AI Experience): Strategies, guardrails, and product architecture for preventing hallucinations in AI travel recommendations.</description>
+      <title>5 - I3 - AI Experience - How Ex Prevents Hallucinations</title>
+      <description>Interview 3 (AI Experience): Strategies, guardrails, and product architecture for preventing hallucinations in AI output.</description>
       <guid isPermaLink="false">urn:google-drive:file:1rqcPOT3HxkHtjf2NZaC6O6sadXrU0GI6</guid>
       <pubDate>Wed, 18 Nov 2026 11:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rqcPOT3HxkHtjf2NZaC6O6sadXrU0GI6" length="16841323" type="audio/x-m4a" />
-      <itunes:title>5 - I3 - AI Experience - How Expedia Prevents AI Travel Hallucinations</itunes:title>
+      <itunes:title>5 - I3 - AI Experience - How Ex Prevents Hallucinations</itunes:title>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Interview 3 (AI Experience): Strategies, guardrails, and product architecture for preventing hallucinations in AI travel recommendations.</itunes:summary>
+      <itunes:summary>Interview 3 (AI Experience): Strategies, guardrails, and product architecture for preventing hallucinations in AI output.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>6 - I4 - Product Strategy - Expedia AI Product Strategy Interview</title>
-      <description>Interview 4 (Product Strategy): Product strategy prep and framing for Expedia's AI product leadership and strategy interviews.</description>
+      <title>6 - I4 - Product Strategy - Ex AI Product Strategy Interview</title>
+      <description>Interview 4 (Product Strategy): Product strategy prep and framing for AI product leadership and strategy interviews.</description>
       <guid isPermaLink="false">urn:google-drive:file:1EiNmDL8L6XwRrgu2SpIiUsXDz1tLj9Gy</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EiNmDL8L6XwRrgu2SpIiUsXDz1tLj9Gy" length="15821359" type="audio/x-m4a" />
-      <itunes:title>6 - I4 - Product Strategy - Expedia AI Product Strategy Interview</itunes:title>
+      <itunes:title>6 - I4 - Product Strategy - Ex AI Product Strategy Interview</itunes:title>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Interview 4 (Product Strategy): Product strategy prep and framing for Expedia's AI product leadership and strategy interviews.</itunes:summary>
+      <itunes:summary>Interview 4 (Product Strategy): Product strategy prep and framing for AI product leadership and strategy interviews.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>7 - I5 - Product Judgement - Surviving Expedia's AI Bar Raiser</title>
-      <description>Interview 5 (Product Judgement): Navigating product judgment questions and surviving Expedia's AI Bar Raiser round.</description>
+      <title>7 - I5 - Product Judgement - Surviving the Ex AI Bar Raiser</title>
+      <description>Interview 5 (Product Judgement): Navigating product judgment questions and surviving rigorous AI Bar Raiser rounds.</description>
       <guid isPermaLink="false">urn:google-drive:file:1LMtziNN-TsbNbyPkeLDPLg2tNxJ3ub_3</guid>
       <pubDate>Wed, 18 Nov 2026 13:00:00 -0800</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LMtziNN-TsbNbyPkeLDPLg2tNxJ3ub_3" length="16857367" type="audio/x-m4a" />
-      <itunes:title>7 - I5 - Product Judgement - Surviving Expedia's AI Bar Raiser</itunes:title>
+      <itunes:title>7 - I5 - Product Judgement - Surviving the Ex AI Bar Raiser</itunes:title>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Interview 5 (Product Judgement): Navigating product judgment questions and surviving Expedia's AI Bar Raiser round.</itunes:summary>
+      <itunes:summary>Interview 5 (Product Judgement): Navigating product judgment questions and surviving rigorous AI Bar Raiser rounds.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
